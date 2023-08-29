@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Gaikwad</h1>
 <h3 align="center">A passionate Computer Science Student at MITAOE</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1121&label=Profile%20views&color=0e75b6&style=flat" alt="adi1121" /> </p>
+<img src="/Portfolio.png" alt="Portfolio" height="400" align="right" />
 
 - 🔭 I’m currently working on **Driver Drowsiness Detection**
 
@@ -21,12 +22,6 @@
 <a href="https://www.hackerearth.com/@gaikwadaditya111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gaikwadaditya111" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gaikwadaditya1121/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaikwadaditya1121/profile" height="30" width="40" /></a>
 </p>
-
-<div style="display: flex; border-radius: 10px; overflow: hidden; background-color: #f0f0f0; padding: 10px;">
-  <img src="/Portfolio.png" alt="Portfolio" height="250" style="border-radius: 10px; margin-right: 20px;" />
-  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" height="250" style="border-radius: 10px;" />
-</div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
