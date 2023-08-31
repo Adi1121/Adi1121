@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aditya Gaikwad</h1>
 <h3 align="center">A passionate Computer Science Student at MITAOE</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1121&label=Profile%20views&color=0e75b6&style=flat" alt="adi1121" /> </p>
-<img src="/Portfolio.png" alt="Portfolio" height="400" align="right" />
 
-- 🔭 I’m currently working on **Driver Drowsiness Detection**
+- 🔭 I’m currently working on *Driver Drowsiness Detection*
 
-- 🌱 I’m currently learning **Advance C++**
+- 🌱 I’m currently learning *Advance C++*
 
-- 💬 Ask me about **AWS Cloud, C++ Programming**
+- 💬 Ask me about *AWS Cloud, C++ Programming*
 
-- 📫 How to reach me **gaikwadaditya1121@gmail.com**
+- 📫 How to reach me *gaikwadaditya1121@gmail.com*
 
-- ⚡ Fun fact **I work in Dark Mode**
+- ⚡ Fun fact *I work in Dark Mode*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-gaikwad-40aa10207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gaikwad-40aa10207" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya._12._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya._12._" height="30" width="40" /></a>
+<a href="https://instagram.com/aditya._12._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.12." height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adi0480" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi0480" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaikwadaditya1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaikwadaditya1121" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@gaikwadaditya111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gaikwadaditya111" height="30" width="40" /></a>
